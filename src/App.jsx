@@ -21,6 +21,7 @@ function App() {
      <h3>Please enter the word to check:</h3>
      <Word wordEnt={wordEnt} checkPal={handleEntry}/>
      <Output wordEnt={wordEnt}/>
+      
 
     </div>
 
