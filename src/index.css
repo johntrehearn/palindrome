@@ -36,4 +36,5 @@ body {
 input {
   background-color: rgb(165, 174, 178);
   color: black;
+  width: 300px
 }
